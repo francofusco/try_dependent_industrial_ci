@@ -1,0 +1,3 @@
+- git:
+    uri: https://github.com/francofusco/try_industrial_ci.git
+    local-name: francofusco/try_industrial_ci
