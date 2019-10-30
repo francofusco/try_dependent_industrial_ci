@@ -5,6 +5,7 @@ find_package(catkin REQUIRED COMPONENTS roscpp std_msgs foo sequences)
 
 catkin_package(
   CATKIN_DEPENDS roscpp std_msgs foo sequences
+  INCLUDE_DIRS include
 )
 
 
