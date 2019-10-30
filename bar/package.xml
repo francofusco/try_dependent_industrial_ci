@@ -12,5 +12,6 @@
   <depend>roscpp</depend>
   <depend>std_msgs</depend>
   <depend>foo</depend>
+  <depend>sequences</depend>
 
 </package>
